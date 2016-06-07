@@ -1,3 +1,5 @@
+**NOTE: materials used for initial workshop. Now superceded by [hhttps://github.com/data-lessons/library-shell] (https://github.com/data-lessons/library-shell)**
+
 ## Library Carpentry. Week Two: Controlling Data (with the Shell)
 
 ### Installation Instructions
